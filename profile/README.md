@@ -1,12 +1,13 @@
-## Hi there 👋
+## Привет всем, мы BiteApps 👋
 
-<!--
+![152784935](https://github.com/Biteapps/.github/assets/83592338/911bb390-8159-42c8-bd92-b1c3b3cfdc85)
 
-**Here are some ideas to get you started:**
+🙋‍♀️ Наша организация про разработку и возрождение софта
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 Благодаря нам вы сможете пощупать старый софт в новом формате
+
+👩‍💻 Полезные ресурсы: пока что только вк(позже опубликуем)
+🍿 Интересный факт: Жаренная картоха имба
+
+Спасибо за просмотр нашего репозитория
+
