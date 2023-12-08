@@ -1,2 +1,2 @@
-# .github
+# Biteapps.github
 Для профиля
