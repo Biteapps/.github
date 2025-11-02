@@ -1,4 +1,4 @@
-## Привет всем, мы BiteApps 👋
+## Привет всем, мы XVTeam 👋
 
 ![152784935](https://github.com/Biteapps/.github/assets/83592338/911bb390-8159-42c8-bd92-b1c3b3cfdc85)
 
